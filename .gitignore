@@ -12,4 +12,11 @@
 *.la
 *.a
 
+bin
 build
+debug
+release
+Win32
+GeneratedFiles
+*.vcxproj*
+*sdf
